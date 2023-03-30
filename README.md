@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AW0eTmm-1upcyu_lBtDGCpKxFmMaqlt_/view?usp=sharing](https://drive.google.com/file/d/1AW0eTmm-1upcyu_lBtDGCpKxFmMaqlt_/view?usp=sharing)
 
-- ⚡ Fun fact **Coding with cup of tea**
+- ⚡ Fun fact **Coding with a cup of tea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
