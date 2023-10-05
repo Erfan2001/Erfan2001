@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erfan Nourbakhsh</h1>
-<h3 align="center">A professional AI Engineer & Frontend Developer</h3>
+<h3 align="center">A professional Machine Learning Engineer & Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erfan2001&label=Profile%20views&color=0e75b6&style=flat" alt="erfan2001" /> </p>
 
