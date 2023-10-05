@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/erfan35678696" target="blank"><img src="https://img.shields.io/twitter/follow/erfan35678696?logo=twitter&style=for-the-badge" alt="erfan35678696" /></a> </p>
 
-- 🔭 I’m currently working on **Extractive Text Summarization**
+- 🔭 I’m currently working on **Artificial  Intelligence Projects**
 
 - 🌱 I’m currently learning **PyTorch Geometric, PyTorch, ...**
 
-- 👯 I’m looking to collaborate on **NLP Projects / React Projects**
-
-- 🤝 I’m looking for help with **My NLP projects**
+- 👯 I’m looking to collaborate on **Machine Learning & Deep Learning Projects / React Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Erfan2001](https://github.com/Erfan2001)
 
