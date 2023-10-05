@@ -38,6 +38,7 @@
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sklearn" width="70" height="40"/> </a> 
                 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="Numpy" width="70" height="40"/> </a>
                                 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2022/01/illu_pandas-82.png" alt="Pandas" width="70" height="40"/> </a>
+                                     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" alt="Matplotlib" width="70" height="40"/> </a>
 <h4 align="left">Web Developments:</h4>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
