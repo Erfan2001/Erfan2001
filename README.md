@@ -33,6 +33,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Artificial Intelligence:</h4>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+    <a href="https://pytorch-geometric.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40"/> </a> 
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/> </a> 
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sklearn" width="70" height="40"/> </a> 
 <h4 align="left">Web Developments:</h4>
