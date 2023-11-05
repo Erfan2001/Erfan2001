@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Artificial  Intelligence Projects**
 
-- 🌱 I’m currently learning **PyTorch Geometric, PyTorch, ...**
+- 🌱 I’m currently learning **Software Development, PyTorch, PyTorch Geometric...**
 
-- 👯 I’m looking to collaborate on **Machine Learning & Deep Learning Projects / React Projects**
+- 👯 I’m looking to collaborate on **Machine Learning & Deep Learning Projects / Software Engineering Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Erfan2001](https://github.com/Erfan2001)
 
