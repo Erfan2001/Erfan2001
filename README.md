@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Erfan2001](https://github.com/Erfan2001)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing(NLP), Graph Neural Networks(GNNs), React, ReactNative, ...**
+- 💬 Ask me about **Machine Learning, Natural Language Processing(NLP), Software Engineering, Deep Learning, Graph Neural Networks(GNNs), React, ReactNative, ...**
 
 - 📫 How to reach me **ErfanNourbakhsh2001@gmail.com**
 
